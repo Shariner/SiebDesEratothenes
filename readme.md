@@ -1,0 +1,1 @@
+With this algorithm, you can find prim numbers!
