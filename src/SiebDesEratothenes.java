@@ -5,7 +5,7 @@ public class SiebDesEratothenes {
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Maximale Zahl (Maximum ist: "+Integer.MAX_VALUE+" :");
+		System.out.println("Until which number should i look for prim numbers? (Maximum is: "+Integer.MAX_VALUE+" :");
 		int n = scan.nextInt();
 		int j = 0;
 

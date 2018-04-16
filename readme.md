@@ -1,1 +1,1 @@
-With this algorithm, you can find prim numbers!
+With this algorithm you can easily and quickly find prim numbers. Try it yourself! If you have any questions, just write to me.
